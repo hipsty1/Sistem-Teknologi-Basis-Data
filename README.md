@@ -150,8 +150,7 @@ Satu asisten dapat menangani beberapa jadwal praktikum.
 - phpMyAdmin
 
 
-# Cara Menjalankan
+## Author
 
-1. Buat database baru pada MySQL/phpMyAdmin
-
-2. Import file:
+Hendri Prasetyo  
+Mahasiswa Informatika’24 
